@@ -1,3 +1,4 @@
+#大话数据结构P94，双栈
 class DoubleStack():
     def __init__(self, size):
         self.size = size

@@ -1,4 +1,4 @@
-#大话数据结构第115页，采用了方法二，需要保证队列始终空出来至少一位
+#大话数据结构第115页，循环队列，采用了方法二，需要保证队列始终空出来至少一位
 class CircularQueue():
     def __init__(self, maxsize):
         self.maxsize = maxsize

@@ -1,3 +1,4 @@
+#大话数据结构P55，链表
 class Node():
     def __init__(self, data, next_node = None):
         self.data = data

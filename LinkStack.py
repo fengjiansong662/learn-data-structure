@@ -1,3 +1,4 @@
+#大话数据结构P97，链栈
 class LinkStackNode():
     def __init__(self, data, next_node = None):
         self.data = data

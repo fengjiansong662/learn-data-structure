@@ -1,3 +1,4 @@
+#大话数据结构P92，栈
 class Stack():
     def __init__(self, size):
         self.size = size
